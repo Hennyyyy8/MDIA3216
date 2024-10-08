@@ -6,7 +6,7 @@ export default function Page() {
 
 <View>  
     <Text>This is my fromaaage page</Text>
-        <Link href="/home"> Home</Link>
+        <Link href="/home"> home</Link>
         <Link href="/sandwich"> sandwich</Link>
 </View>
     ) 
